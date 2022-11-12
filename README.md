@@ -21,6 +21,7 @@ cd Rock-Scan
 python botip.py
 
 ```
+![image](https://raw.githubusercontent.com/mr-sami-x/Rock-Scan/main/Screenshot_2022-11-12_17_54_37.png)
 ### The tool also exploits and searches for WordPress vulnerabilities
 
 And show the control panel to any site, and show the Cpanel to any site in the Cpanel
