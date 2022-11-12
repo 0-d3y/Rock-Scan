@@ -6,6 +6,7 @@ on as a tool for checking sites and showing domain information.
 ```
 sudo pip install socket
 sudo pip install requests
+git clone https://github.com/mr-sami-x/Rock-Scan.git
 cd Rock-Scan
 python botip.py
 ```
@@ -14,7 +15,8 @@ python botip.py
 pkg install git
 pkg instaal python 
 pkg install socket
-pkg install socket
+pkg install requests
+git clone https://github.com/mr-sami-x/Rock-Scan.git
 cd Rock-Scan
 python botip.py
 
@@ -25,4 +27,4 @@ And show the control panel to any site, and show the Cpanel to any site in the C
 
 This tool has been perfectly programmed to suit all the needs of the Arabs to carry out attacks against the Zionist entity and we provide all the possibilities of learning and exploitation to be you in our campaigns against Israel
 
-![Telegram](https://t.me/TYG_TEAM)
+[Telegram](https://t.me/TYG_TEAM)
